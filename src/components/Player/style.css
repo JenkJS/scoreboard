@@ -1,0 +1,19 @@
+.player-wrapper{
+    border: 1px solid red;
+    width: 50%;
+    border-radius: 5px;
+    display: flex;
+
+}
+.player-nickname{
+    width: 50%;
+    text-align: center;
+}
+.player-score{
+    width: 50%;
+    text-align: center;
+}
+.player-dead{
+    width: 50%;
+    text-align: center;
+}
